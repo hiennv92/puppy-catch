@@ -1,0 +1,1 @@
+a funny game written in cocos2dx version 3.2 language C++
